@@ -27,8 +27,8 @@
 | Caught | Route | Pokemon
 |:----:|--------|--------|
 | <li> [ ] </li> | Slumbering Weald | ?
-| <li> [x] </li> | Route 1 | ?
-| <li> [x] </li> | Route 2 | ?
+| <li> [x] </li> | Route 1 | Wurmpie
+| <li> [x] </li> | Route 2 | Fogel
 | <li> [ ] </li> | Route 3 | ?
 | <li> [ ] </li> | Galar Mine | ?
 | <li> [ ] </li> | Route 4 | ?
