@@ -27,8 +27,8 @@
 | Caught | Route | Pokemon
 |:----:|--------|--------|
 | <li> [ ] </li> | Slumbering Weald | ?
-| <li> [ ] </li> | Route 1 | ?
-| <li> [ ] </li> | Route 2 | ?
+| <li> [x] </li> | Route 1 | ?
+| <li> [x] </li> | Route 2 | ?
 | <li> [ ] </li> | Route 3 | ?
 | <li> [ ] </li> | Galar Mine | ?
 | <li> [ ] </li> | Route 4 | ?
@@ -72,3 +72,23 @@
 ## Journal
 ### Day 1
 **Postwick**
+* Got my lvl 5 Scorbunny and nicknamed it 'Boenni'. 
+* Beat Hop in the first battle.
+
+**Route 1**
+* Caught Caterpie at lvl 4 and named it 'Wurmpie'. Became lvl 7. Evolved into Metapod.
+* Boenni became lvl 10
+
+**Route 2**
+* Caught Rookidee at lvl 5 and named it 'Fogel'. Became lvl 7.
+* Wurmpie became lvl 10. Evolved into Butterfree. 
+* Boenni became lvl 11
+
+
+
+
+
+
+
+
+
