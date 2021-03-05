@@ -66,7 +66,7 @@
 | <li> [ ] </li> | Axew's Eye | ?
 | <li> [ ] </li> | South Lake Miloch | ?
 | <li> [ ] </li> | Giant's Seat | ?
-| <li> [ ] </li> | Dappled Grove | ?
+| <li> [x] </li> | Dappled Grove | Potplantje
 | <li> [ ] </li> | Rolling Fields | ?
 
 ## Journal
@@ -85,6 +85,10 @@
 * Boenni became lvl 12
 
 **Southern Wild Area**
+* Caught an Oddish at lvl 14 and named it 'Potplantje'.
+* Boennie became lvl 14.
+* Wumrpie became lvl 13.
+
 
 
 
