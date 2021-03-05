@@ -93,7 +93,7 @@
 * Boennie and Potplantje became lvl 17.
 
 **Galar Mine**
-* Caught a roggenrola at lvl 14 and named it 'Stuk Steen'. Became lvl 18
+* Caught a Roggenrola at lvl 14 and named it 'Stuk Steen'. Became lvl 18
 * Fogel became lvl 18. Evolved into Corvisquire.
 * Boennie, Potplantje, Klonkie and Wurmpie became lvl 18.
 
