@@ -73,7 +73,6 @@
 ### Day 1
 **Postwick**
 * Got my lvl 5 Scorbunny and nicknamed it 'Boenni'. 
-* Beat Hop in the first battle.
 
 **Route 1**
 * Caught Caterpie at lvl 4 and named it 'Wurmpie'. Became lvl 7. Evolved into Metapod.
@@ -85,9 +84,10 @@
 * Boenni became lvl 12
 
 **Southern Wild Area**
-* Caught an Oddish at lvl 14 and named it 'Potplantje'.
-* Boennie became lvl 14.
-* Wumrpie became lvl 13.
+* Caught an Oddish at lvl 14 and named it 'Potplantje'. Became lvl 16
+* Boennie became lvl 16. Evolved into Raboot.
+* Wurmpie became lvl 14.
+
 
 
 
