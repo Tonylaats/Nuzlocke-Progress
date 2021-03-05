@@ -81,8 +81,11 @@
 
 **Route 2**
 * Caught Rookidee at lvl 5 and named it 'Fogel'. Became lvl 7.
-* Wurmpie became lvl 10. Evolved into Butterfree. 
-* Boenni became lvl 11
+* Wurmpie became lvl 11. Evolved into Butterfree. 
+* Boenni became lvl 12
+
+**Southern Wild Area**
+
 
 
 
