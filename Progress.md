@@ -6,6 +6,7 @@
 * [Catch Progress](#catch-progress)
   * [Routes](#routes)
   * [Wild Areas](#wild-areas) 
+* [Journal](#journal) 
 
 ## Badges
 
