@@ -29,8 +29,8 @@
 | <li> [ ] </li> | Slumbering Weald | ?
 | <li> [x] </li> | Route 1 | Wurmpie
 | <li> [x] </li> | Route 2 | Fogel
-| <li> [ ] </li> | Route 3 | ?
-| <li> [ ] </li> | Galar Mine | ?
+| <li> [x] </li> | Route 3 | Klonkie
+| <li> [x] </li> | Galar Mine | Stuk Steen
 | <li> [ ] </li> | Route 4 | ?
 | <li> [ ] </li> | Route 5 | ?
 | <li> [ ] </li> | Galar Mine No. 2 | ?
@@ -70,23 +70,35 @@
 | <li> [ ] </li> | Rolling Fields | ?
 
 ## Journal
-### Day 1
+### Day 1 (6-3-2021)
 **Postwick**
 * Got my lvl 5 Scorbunny and nicknamed it 'Boenni'. 
 
 **Route 1**
 * Caught Caterpie at lvl 4 and named it 'Wurmpie'. Became lvl 7. Evolved into Metapod.
-* Boenni became lvl 10
+* Boenni became lvl 10.
 
 **Route 2**
 * Caught Rookidee at lvl 5 and named it 'Fogel'. Became lvl 7.
 * Wurmpie became lvl 11. Evolved into Butterfree. 
-* Boenni became lvl 12
+* Boenni became lvl 12.
 
 **Southern Wild Area**
-* Caught an Oddish at lvl 14 and named it 'Potplantje'. Became lvl 16
+* Caught an Oddish at lvl 14 and named it 'Potplantje'. Became lvl 16.
 * Boennie became lvl 16. Evolved into Raboot.
 * Wurmpie became lvl 14.
+
+**Route 3**
+* Caught a Klink at lvl 12 and named it 'Klonkie'. Became lvl 16.
+* Boennie and Potplantje became lvl 17.
+
+**Galar Mine**
+* Caught a roggenrola at lvl 14 and named it 'Stuk Steen'. Became lvl 18
+* Fogel became lvl 18. Evolved into Corvisquire.
+* Boennie, Potplantje, Klonkie and Wurmpie became lvl 18.
+
+### Day 2
+**Route 4**
 
 
 
