@@ -26,6 +26,7 @@
 
 | Caught | Route | Pokemon
 |:----:|--------|--------|
+| <li> [x] </li> | Starter | Boenni
 | <li> [ ] </li> | Slumbering Weald | ?
 | <li> [x] </li> | Route 1 | Wurmpie
 | <li> [x] </li> | Route 2 | Fogel
