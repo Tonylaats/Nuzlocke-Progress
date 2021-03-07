@@ -12,7 +12,7 @@
 
 | Beaten | Gym No 
 |:----:|--------|
-| <li> [ ] </li> | Gym 1
+| <li> [x] </li> | Gym 1
 | <li> [ ] </li> | Gym 2
 | <li> [ ] </li> | Gym 3
 | <li> [ ] </li> | Gym 4
@@ -32,8 +32,8 @@
 | <li> [x] </li> | Route 2 | Fogel
 | <li> [x] </li> | Route 3 | Klonkie
 | <li> [x] </li> | Galar Mine | Stuk Steen
-| <li> [ ] </li> | Route 4 | ?
-| <li> [ ] </li> | Route 5 | ?
+| <li> [x] </li> | Route 4 | Shaun
+| <li> [x] </li> | Route 5 | Sphydero
 | <li> [ ] </li> | Galar Mine No. 2 | ?
 | <li> [ ] </li> | Motostoke Outskirts | ?
 | <li> [ ] </li> | Route 6 | ?
@@ -94,14 +94,25 @@
 * Boennie and Potplantje became lvl 17.
 
 **Galar Mine**
-* Caught a Roggenrola at lvl 14 and named it 'Stuk Steen'. Became lvl 18
+* Caught a Roggenrola at lvl 14 and named it 'Steen'. Became lvl 18
 * Fogel became lvl 18. Evolved into Corvisquire.
 * Boennie and Potplantje became lvl 19.
 * Klonkie and Wurmpie became lvl 18.
 
 ### Day 2
 **Route 4**
+* Caught a Wooloo at lvl 15 and named it Shaun.
+* Potplantje became lvl 21. Evolved into Gloom and further into Vileplume.
+* Boenni and Wurmpie became lvl 21.
+* Klonkie, Fogel and Steen became lvl 20.
 
+**Turffield**
+* Beat the gym using Boenni and Wurmpie.
+* Boenni became lvl 23. Wurmpie became lvl 22.
+
+**Route 5**
+* Caught a Dewpider at lvl 17 and named it 'Sphydero'. Became lvl
+* 
 
 
 
