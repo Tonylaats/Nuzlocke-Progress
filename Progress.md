@@ -101,7 +101,7 @@
 
 ### Day 2 (7-3-2021)
 **Route 4**
-* Caught a Wooloo at lvl 15 and named it Shaun.
+* Caught a Wooloo at lvl 15 and named it 'Shaun'.
 * Potplantje became lvl 21. Evolved into Gloom and further into Vileplume.
 * Boenni and Wurmpie became lvl 21.
 * Klonkie, Fogel and Steen became lvl 20.
