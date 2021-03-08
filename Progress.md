@@ -99,7 +99,7 @@
 * Boennie and Potplantje became lvl 19.
 * Klonkie and Wurmpie became lvl 18.
 
-### Day 2
+### Day 2 (7-3-2021)
 **Route 4**
 * Caught a Wooloo at lvl 15 and named it Shaun.
 * Potplantje became lvl 21. Evolved into Gloom and further into Vileplume.
@@ -108,12 +108,17 @@
 
 **Turffield**
 * Beat the gym using Boenni and Wurmpie.
-* Boenni became lvl 23. Wurmpie became lvl 22.
+* Boenni became lvl 23. 
+* Wurmpie became lvl 22.
 
+## Day 3 (8-3-2021)
 **Route 5**
-* Caught a Dewpider at lvl 17 and named it 'Sphydero'. Became lvl
-* 
+* Caught a Dewpider at lvl 17 and named it 'Sphydero'. Became lvl 23. Evolved into Araquanid. 
+* Boenni, Potplantje and Klonkie became lvl 24.
+* Steen, Sphydero, Fogel and Wumrpie became lvl 23.
+* Shaun became lvl 18.
 
+### Day 4 ()
 
 
 
