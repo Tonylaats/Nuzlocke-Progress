@@ -13,7 +13,7 @@
 | Beaten | Gym No 
 |:----:|--------|
 | <li> [x] </li> | Gym 1
-| <li> [ ] </li> | Gym 2
+| <li> [x] </li> | Gym 2
 | <li> [ ] </li> | Gym 3
 | <li> [ ] </li> | Gym 4
 | <li> [ ] </li> | Gym 5
