@@ -118,7 +118,11 @@
 * Steen, Sphydero, Fogel and Wumrpie became lvl 23.
 * Shaun became lvl 18.
 
-### Day 4 ()
+### Day 4 (11-3-2021)
+**Hulbury**
+* Beat the gym using Potplantje, Klonkie and Fogel.
+* Boenni, Wurmpie, Potplantje, Fogel, Klonkie, Steen and Sphydero became lvl 27.
+* Shaun became lvl 24. Evolved into Dubwool.
 
 
 
