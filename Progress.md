@@ -14,7 +14,7 @@
 |:----:|--------|
 | <li> [x] </li> | Gym 1
 | <li> [x] </li> | Gym 2
-| <li> [ ] </li> | Gym 3
+| <li> [x] </li> | Gym 3
 | <li> [ ] </li> | Gym 4
 | <li> [ ] </li> | Gym 5
 | <li> [ ] </li> | Gym 6
