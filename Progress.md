@@ -111,7 +111,7 @@
 * Boenni became lvl 23. 
 * Wurmpie became lvl 22.
 
-## Day 3 (8-3-2021)
+### Day 3 (8-3-2021)
 **Route 5**
 * Caught a Dewpider at lvl 17 and named it 'Sphydero'. Became lvl 23. Evolved into Araquanid. 
 * Boenni, Potplantje and Klonkie became lvl 24.
