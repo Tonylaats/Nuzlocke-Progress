@@ -34,8 +34,8 @@
 | <li> [x] </li> | Galar Mine | Stuk Steen
 | <li> [x] </li> | Route 4 | Shaun
 | <li> [x] </li> | Route 5 | Sphydero
-| <li> [ ] </li> | Galar Mine No. 2 | ?
-| <li> [ ] </li> | Motostoke Outskirts | ?
+| <li> [x] </li> | Galar Mine No. 2 | Echo
+| <li> [x] </li> | Motostoke Outskirts | Mand
 | <li> [ ] </li> | Route 6 | ?
 | <li> [ ] </li> | Glimwood Tangle | ?
 | <li> [ ] </li> | Route 7 | ?
@@ -53,7 +53,7 @@
 | <li> [ ] </li> | Giant's Cap | ?
 | <li> [ ] </li> | Dusty Bowl | ?
 | <li> [ ] </li> | Giant's Mirror | ?
-| <li> [ ] </li> | Stony Wilderness | ?
+| <li> [x] </li> | Stony Wilderness | Gnoom
 | <li> [ ] </li> | Bridge Field | ?
 | <li> [ ] </li> | Motostoke Riverbank | ?
 
@@ -107,7 +107,7 @@
 * Klonkie, Fogel and Steen became lvl 20.
 
 **Turffield**
-* Beat the gym using Boenni and Wurmpie.
+* Beat Milo using Boenni and Wurmpie.
 * Boenni became lvl 23. 
 * Wurmpie became lvl 22.
 
@@ -120,9 +120,26 @@
 
 ### Day 4 (11-3-2021)
 **Hulbury**
-* Beat the gym using Potplantje, Klonkie and Fogel.
+* Beat Nessa using Potplantje, Klonkie and Fogel.
 * Boenni, Wurmpie, Potplantje, Fogel, Klonkie, Steen and Sphydero became lvl 27.
 * Shaun became lvl 24. Evolved into Dubwool.
+
+### Day 5 (12-3-2021)
+**Galar Mine No.2**
+* Caught a Noibat at lvl 23 and named it 'Echo'. Became lvl 28.
+* Boenni, Wurmpie, Potplantje, Fogel, Klonkie, Steen and Sphydero became lvl 28.
+
+**Motostoke Outskirts**
+* Caught a saladizzle at lvl 26 and named it 'Mand'. Became lvl 30.
+* Boenni, Potplantje, Fogel, Klonkie, Steen, Sphydero, Echo and Mand became lvl 30.
+* Wurmpie and Shaun became lvl 29.
+
+### Day 6 (14-3-2021)
+**Motostoke**
+* Beat Kabu using Sphydero, Steen and Echo.
+
+**Northern Wild Area**
+* Caught an Impidimp at lvl 29 and named it 'Gnoom'. 
 
 
 
