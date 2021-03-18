@@ -76,72 +76,77 @@
 * Got my lvl 5 Scorbunny and nicknamed it 'Boenni'. 
 
 **Route 1**
-* Caught Caterpie at lvl 4 and named it 'Wurmpie'. Became lvl 7. Evolved into Metapod.
-* Boenni became lvl 10.
+* Caught Caterpie at lvl 4 and named it 'Wurmpie'
+* Wurmpie evolved into Metapod
 
 **Route 2**
-* Caught Rookidee at lvl 5 and named it 'Fogel'. Became lvl 7.
-* Wurmpie became lvl 11. Evolved into Butterfree. 
-* Boenni became lvl 12.
+* Caught Rookidee at lvl 5 and named it 'Fogel'
+* Wurmpie evolved into Butterfree
 
 **Southern Wild Area**
-* Caught an Oddish at lvl 14 and named it 'Potplantje'. Became lvl 16.
-* Boennie became lvl 16. Evolved into Raboot.
-* Wurmpie became lvl 14.
+* Caught Oddish at lvl 14 and named it 'Potplantje'
+* Boennie evolved into Raboot
 
 **Route 3**
-* Caught a Klink at lvl 12 and named it 'Klonkie'. Became lvl 16.
-* Boennie and Potplantje became lvl 17.
+* Caught Klink at lvl 12 and named it 'Klonkie'
 
 **Galar Mine**
-* Caught a Roggenrola at lvl 14 and named it 'Steen'. Became lvl 18
-* Fogel became lvl 18. Evolved into Corvisquire.
-* Boennie and Potplantje became lvl 19.
-* Klonkie and Wurmpie became lvl 18.
+* Caught Roggenrola at lvl 14 and named it 'Steen'
+* Fogel evolved into Corvisquire
 
 ### Day 2 (7-3-2021)
 **Route 4**
-* Caught a Wooloo at lvl 15 and named it 'Shaun'.
-* Potplantje became lvl 21. Evolved into Gloom and further into Vileplume.
-* Boenni and Wurmpie became lvl 21.
-* Klonkie, Fogel and Steen became lvl 20.
+* Caught Wooloo at lvl 15 and named it 'Shaun'
+* Potplantje evolved into Gloom and further into Vileplume
 
 **Turffield**
-* Beat Milo using Boenni and Wurmpie.
-* Boenni became lvl 23. 
-* Wurmpie became lvl 22.
+* Beat Milo using Boenni and Wurmpie
 
 ### Day 3 (8-3-2021)
 **Route 5**
-* Caught a Dewpider at lvl 17 and named it 'Sphydero'. Became lvl 23. Evolved into Araquanid. 
-* Boenni, Potplantje and Klonkie became lvl 24.
-* Steen, Sphydero, Fogel and Wumrpie became lvl 23.
-* Shaun became lvl 18.
+* Caught Dewpider at lvl 17 and named it 'Sphydero'
+* Sphydero evolved into Araquanid
 
 ### Day 4 (11-3-2021)
 **Hulbury**
-* Beat Nessa using Potplantje, Klonkie and Fogel.
-* Boenni, Wurmpie, Potplantje, Fogel, Klonkie, Steen and Sphydero became lvl 27.
-* Shaun became lvl 24. Evolved into Dubwool.
+* Beat Nessa using Potplantje, Klonkie and Fogel
+* Steen evolved into Boldore
+* Shaun evolved into Dubwool
 
 ### Day 5 (12-3-2021)
 **Galar Mine No.2**
-* Caught a Noibat at lvl 23 and named it 'Echo'. Became lvl 28.
-* Boenni, Wurmpie, Potplantje, Fogel, Klonkie, Steen and Sphydero became lvl 28.
+* Caught Noibat at lvl 23 and named it 'Echo'
 
 **Motostoke Outskirts**
-* Caught a saladizzle at lvl 26 and named it 'Mand'. Became lvl 30.
-* Boenni, Potplantje, Fogel, Klonkie, Steen, Sphydero, Echo and Mand became lvl 30.
-* Wurmpie and Shaun became lvl 29.
+* Caught Salandit at lvl 26 and named it 'Mand'
 
 ### Day 6 (14-3-2021)
 **Motostoke**
 * Beat Kabu using Sphydero, Steen and Echo.
 
 **Northern Wild Area**
-* Caught an Impidimp at lvl 29 and named it 'Gnoom'. 
+* Caught Impidimp at lvl 29 and named it 'Gnoom'
+* Gnoom evolved into Mongrel
+* Mand evolved into Salazzle
+* Traded Steen and evolved into Gigalith
 
+### Day 7 (16-3-2021)
+**Route 6**
+* Caught Trapinch at lvl 32 and named it 'Dragonfly'
+* Dragonfly evolved into Vibrava
+* Boennie evolved into Cinderace
+* Fogel evolved into Corviknight
+* Klonkie evolved into Klinklang
 
+**Stow-On-Side**
+* Beat Allister using Gnoom, Dragonfly, Mand and Fogel
+
+### Day 8 (18-3-2021)
+**Glimwood Tangle**
+* Caught Galarian Ponyta at lvl 35 and named it 'Paart'
+
+**Ballonlea**
+* Beat Opal using Klonkie, Mand, Fogel and Boennie
 
 
 
