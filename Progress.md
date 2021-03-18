@@ -36,8 +36,8 @@
 | <li> [x] </li> | Route 5 | Sphydero
 | <li> [x] </li> | Galar Mine No. 2 | Echo
 | <li> [x] </li> | Motostoke Outskirts | Mand
-| <li> [ ] </li> | Route 6 | ?
-| <li> [ ] </li> | Glimwood Tangle | ?
+| <li> [x] </li> | Route 6 | Dragonfly
+| <li> [x] </li> | Glimwood Tangle | Paart
 | <li> [ ] </li> | Route 7 | ?
 | <li> [ ] </li> | Route 8 | ?
 | <li> [ ] </li> | Route 9 | ?
